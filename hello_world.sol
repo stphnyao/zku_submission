@@ -9,11 +9,7 @@ contract HelloWorld {
     }
 
     function retrieveNumer() public view returns (uint) {
-        return storedValue //Return storedValue from earlier
+        return storedValue; //Return storedValue from earlier
     }
 
 }
-
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.3; //Here I specified the solidity version that I want to use
-
