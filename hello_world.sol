@@ -1,4 +1,4 @@
-// My First Smart Contract 
+// SPDX-License-Identifier: MIT
 pragma solidity >=0.7.0 <0.9.0; //Solidity package version
 contract HelloWorld {
 
